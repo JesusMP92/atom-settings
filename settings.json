@@ -1,0 +1,49 @@
+{
+	"atom-beautify": {
+		"analytics": false,
+		"cfml_brace_style": "end-expand",
+		"cfml_preserve_newlines": false,
+		"css_newline_between_rules": true,
+		"css_no_lead_zero": true,
+		"html_indent_inner_html": true,
+		"js_brace_style": "end-expand",
+		"js_indent_size": 3,
+		"js_keep_function_indentation": true,
+		"language_css_beautify_on_save": true,
+		"language_handlebars_beautify_on_save": true,
+		"language_html_beautify_on_save": true,
+		"language_java_beautify_on_save": true,
+		"language_js_beautify_on_save": true,
+		"language_json_beautify_on_save": true,
+		"language_jsx_beautify_on_save": true
+	},
+	"core": {},
+	"editor": {
+		"fontSize": 15,
+		"invisibles": {
+			"eol": " "
+		},
+		"showIndentGuide": true,
+		"showInvisibles": true,
+		"tabLength": 3
+	},
+	"exception-reporting": {
+		"userId": "2f79bfbd-1e45-1466-b028-a6cca41ee6c7"
+	},
+	"fuzzy-finder": {
+		"ignoredNames": [
+			"doc/*",
+			"test/*",
+			"target/*",
+			"node_modules/*",
+			"node/*"
+		]
+	},
+	"sync-settings": {
+		"gistDescription": "atom-settings"
+	},
+	"tree-ignore": {},
+	"welcome": {
+		"showOnStartup": false
+	}
+}
