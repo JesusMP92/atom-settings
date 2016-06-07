@@ -155,7 +155,7 @@
 	},
 	{
 		"name": "language-babel",
-		"version": "2.22.0"
+		"version": "2.25.1"
 	},
 	{
 		"name": "language-c",
@@ -389,7 +389,7 @@
 	},
 	{
 		"name": "tree-ignore",
-		"version": "0.6.1"
+		"version": "0.6.2"
 	},
 	{
 		"name": "tree-view",
