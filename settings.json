@@ -17,7 +17,13 @@
 		"language_json_beautify_on_save": true,
 		"language_jsx_beautify_on_save": true
 	},
-	"core": {},
+	"core": {
+		"autoHideMenuBar": true,
+		"themes": [
+			"atom-dark-ui",
+			"one-dark-syntax"
+		]
+	},
 	"editor": {
 		"fontSize": 15,
 		"invisibles": {
@@ -27,7 +33,6 @@
 		"showInvisibles": true,
 		"tabLength": 3
 	},
-	"emmet": {},
 	"exception-reporting": {
 		"userId": "2f79bfbd-1e45-1466-b028-a6cca41ee6c7"
 	},
@@ -44,6 +49,7 @@
 		"allowLocalOverride": true
 	},
 	"sync-settings": {
+		"analytics": false,
 		"gistDescription": "atom-settings"
 	},
 	"welcome": {

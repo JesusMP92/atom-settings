@@ -5,11 +5,11 @@
 	},
 	{
 		"name": "about",
-		"version": "1.3.0"
+		"version": "1.4.2"
 	},
 	{
 		"name": "archive-view",
-		"version": "0.61.0"
+		"version": "0.61.1"
 	},
 	{
 		"name": "atom-beautify",
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "autocomplete-atom-api",
-		"version": "0.9.2"
+		"version": "0.10.0"
 	},
 	{
 		"name": "autocomplete-css",
@@ -53,15 +53,15 @@
 	},
 	{
 		"name": "autocomplete-plus",
-		"version": "2.25.0"
+		"version": "2.29.1"
 	},
 	{
 		"name": "autocomplete-snippets",
-		"version": "1.9.0"
+		"version": "1.10.0"
 	},
 	{
 		"name": "autoflow",
-		"version": "0.26.0"
+		"version": "0.27.0"
 	},
 	{
 		"name": "autoprefixer",
@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "autosave",
-		"version": "0.23.0"
+		"version": "0.23.1"
 	},
 	{
 		"name": "background-tips",
@@ -87,11 +87,11 @@
 	},
 	{
 		"name": "bookmarks",
-		"version": "0.38.0"
+		"version": "0.38.2"
 	},
 	{
 		"name": "bracket-matcher",
-		"version": "0.79.0"
+		"version": "0.81.0"
 	},
 	{
 		"name": "command-palette",
@@ -99,7 +99,7 @@
 	},
 	{
 		"name": "deprecation-cop",
-		"version": "0.54.0"
+		"version": "0.54.1"
 	},
 	{
 		"name": "dev-live-reload",
@@ -123,15 +123,15 @@
 	},
 	{
 		"name": "find-and-replace",
-		"version": "0.195.0"
+		"version": "0.199.0"
 	},
 	{
 		"name": "fuzzy-finder",
-		"version": "0.94.0"
+		"version": "1.0.5"
 	},
 	{
 		"name": "git-diff",
-		"version": "0.57.0"
+		"version": "1.0.1"
 	},
 	{
 		"name": "go-to-line",
@@ -139,19 +139,23 @@
 	},
 	{
 		"name": "grammar-selector",
-		"version": "0.48.0"
+		"version": "0.48.1"
 	},
 	{
 		"name": "image-view",
-		"version": "0.56.0"
+		"version": "0.57.0"
 	},
 	{
 		"name": "incompatible-packages",
-		"version": "0.25.0"
+		"version": "0.25.1"
 	},
 	{
 		"name": "keybinding-resolver",
-		"version": "0.33.0"
+		"version": "0.35.0"
+	},
+	{
+		"name": "language-babel",
+		"version": "2.22.0"
 	},
 	{
 		"name": "language-c",
@@ -159,15 +163,15 @@
 	},
 	{
 		"name": "language-clojure",
-		"version": "0.19.1"
+		"version": "0.20.0"
 	},
 	{
 		"name": "language-coffee-script",
-		"version": "0.46.0"
+		"version": "0.46.1"
 	},
 	{
 		"name": "language-csharp",
-		"version": "0.11.0"
+		"version": "0.12.0"
 	},
 	{
 		"name": "language-css",
@@ -175,11 +179,11 @@
 	},
 	{
 		"name": "language-gfm",
-		"version": "0.82.0"
+		"version": "0.85.0"
 	},
 	{
 		"name": "language-git",
-		"version": "0.11.0"
+		"version": "0.12.1"
 	},
 	{
 		"name": "language-go",
@@ -187,7 +191,7 @@
 	},
 	{
 		"name": "language-html",
-		"version": "0.44.0"
+		"version": "0.44.1"
 	},
 	{
 		"name": "language-hyperlink",
@@ -199,11 +203,11 @@
 	},
 	{
 		"name": "language-javascript",
-		"version": "0.105.0"
+		"version": "0.110.0"
 	},
 	{
 		"name": "language-json",
-		"version": "0.17.3"
+		"version": "0.17.6"
 	},
 	{
 		"name": "language-less",
@@ -227,7 +231,7 @@
 	},
 	{
 		"name": "language-php",
-		"version": "0.36.0"
+		"version": "0.37.0"
 	},
 	{
 		"name": "language-property-list",
@@ -239,7 +243,7 @@
 	},
 	{
 		"name": "language-ruby",
-		"version": "0.68.0"
+		"version": "0.68.3"
 	},
 	{
 		"name": "language-ruby-on-rails",
@@ -247,7 +251,7 @@
 	},
 	{
 		"name": "language-sass",
-		"version": "0.45.0"
+		"version": "0.46.0"
 	},
 	{
 		"name": "language-shellscript",
@@ -263,7 +267,7 @@
 	},
 	{
 		"name": "language-text",
-		"version": "0.7.0"
+		"version": "0.7.1"
 	},
 	{
 		"name": "language-todo",
@@ -275,23 +279,23 @@
 	},
 	{
 		"name": "language-xml",
-		"version": "0.34.2"
+		"version": "0.34.4"
 	},
 	{
 		"name": "language-yaml",
-		"version": "0.25.0"
+		"version": "0.25.1"
 	},
 	{
 		"name": "line-ending-selector",
-		"version": "0.3.0"
+		"version": "0.3.1"
 	},
 	{
 		"name": "link",
-		"version": "0.31.0"
+		"version": "0.31.1"
 	},
 	{
 		"name": "markdown-preview",
-		"version": "0.157.1"
+		"version": "0.158.0"
 	},
 	{
 		"name": "metrics",
@@ -299,39 +303,35 @@
 	},
 	{
 		"name": "notifications",
-		"version": "0.62.1"
+		"version": "0.63.1"
 	},
 	{
 		"name": "one-dark-syntax",
-		"version": "1.1.2",
+		"version": "1.2.0",
 		"theme": "syntax"
 	},
 	{
 		"name": "one-dark-ui",
-		"version": "1.1.9",
+		"version": "1.2.0",
 		"theme": "ui"
 	},
 	{
 		"name": "one-light-syntax",
-		"version": "1.1.2",
+		"version": "1.2.0",
 		"theme": "syntax"
 	},
 	{
 		"name": "one-light-ui",
-		"version": "1.1.9",
+		"version": "1.2.0",
 		"theme": "ui"
 	},
 	{
 		"name": "open-on-github",
-		"version": "0.40.0"
+		"version": "1.0.1"
 	},
 	{
 		"name": "package-generator",
-		"version": "0.41.0"
-	},
-	{
-		"name": "react",
-		"version": "0.15.0"
+		"version": "1.0.0"
 	},
 	{
 		"name": "react-es6-snippets",
@@ -339,7 +339,7 @@
 	},
 	{
 		"name": "settings-view",
-		"version": "0.232.3"
+		"version": "0.235.1"
 	},
 	{
 		"name": "snippets",
@@ -347,29 +347,29 @@
 	},
 	{
 		"name": "solarized-dark-syntax",
-		"version": "0.39.0",
+		"version": "1.0.0",
 		"theme": "syntax"
 	},
 	{
 		"name": "solarized-light-syntax",
-		"version": "0.23.0",
+		"version": "1.0.0",
 		"theme": "syntax"
 	},
 	{
 		"name": "spell-check",
-		"version": "0.65.0"
+		"version": "0.67.0"
 	},
 	{
 		"name": "status-bar",
-		"version": "0.80.0"
+		"version": "1.1.2"
 	},
 	{
 		"name": "styleguide",
-		"version": "0.45.0"
+		"version": "0.45.2"
 	},
 	{
 		"name": "symbols-view",
-		"version": "0.110.1"
+		"version": "0.112.0"
 	},
 	{
 		"name": "sync-settings",
@@ -377,19 +377,19 @@
 	},
 	{
 		"name": "tabs",
-		"version": "0.88.0"
+		"version": "0.96.0"
 	},
 	{
 		"name": "timecop",
-		"version": "0.33.0"
+		"version": "0.33.1"
 	},
 	{
 		"name": "tree-ignore",
-		"version": "0.6.2"
+		"version": "0.6.1"
 	},
 	{
 		"name": "tree-view",
-		"version": "0.198.1"
+		"version": "0.205.0"
 	},
 	{
 		"name": "update-package-dependencies",
@@ -397,11 +397,11 @@
 	},
 	{
 		"name": "welcome",
-		"version": "0.33.0"
+		"version": "0.34.0"
 	},
 	{
 		"name": "whitespace",
-		"version": "0.32.1"
+		"version": "0.32.2"
 	},
 	{
 		"name": "wrap-guide",
