@@ -5,7 +5,7 @@
 	},
 	{
 		"name": "about",
-		"version": "1.4.2"
+		"version": "1.5.0"
 	},
 	{
 		"name": "archive-view",
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "atom-beautify",
-		"version": "0.28.28"
+		"version": "0.29.10"
 	},
 	{
 		"name": "atom-dark-syntax",
@@ -40,12 +40,16 @@
 		"theme": "ui"
 	},
 	{
+		"name": "atom-typescript",
+		"version": "10.1.9"
+	},
+	{
 		"name": "autocomplete-atom-api",
 		"version": "0.10.0"
 	},
 	{
 		"name": "autocomplete-css",
-		"version": "0.11.0"
+		"version": "0.11.1"
 	},
 	{
 		"name": "autocomplete-html",
@@ -53,7 +57,7 @@
 	},
 	{
 		"name": "autocomplete-plus",
-		"version": "2.29.1"
+		"version": "2.29.2"
 	},
 	{
 		"name": "autocomplete-snippets",
@@ -87,11 +91,11 @@
 	},
 	{
 		"name": "bookmarks",
-		"version": "0.38.2"
+		"version": "0.39.0"
 	},
 	{
 		"name": "bracket-matcher",
-		"version": "0.81.0"
+		"version": "0.82.0"
 	},
 	{
 		"name": "command-palette",
@@ -115,11 +119,11 @@
 	},
 	{
 		"name": "exception-reporting",
-		"version": "0.37.0"
+		"version": "0.38.0"
 	},
 	{
 		"name": "file-icons",
-		"version": "1.7.13"
+		"version": "1.7.17"
 	},
 	{
 		"name": "find-and-replace",
@@ -127,11 +131,11 @@
 	},
 	{
 		"name": "fuzzy-finder",
-		"version": "1.0.5"
+		"version": "1.3.0"
 	},
 	{
 		"name": "git-diff",
-		"version": "1.0.1"
+		"version": "1.1.0"
 	},
 	{
 		"name": "go-to-line",
@@ -147,19 +151,15 @@
 	},
 	{
 		"name": "incompatible-packages",
-		"version": "0.25.1"
+		"version": "0.26.1"
 	},
 	{
 		"name": "keybinding-resolver",
 		"version": "0.35.0"
 	},
 	{
-		"name": "language-babel",
-		"version": "2.22.0"
-	},
-	{
 		"name": "language-c",
-		"version": "0.51.1"
+		"version": "0.51.3"
 	},
 	{
 		"name": "language-clojure",
@@ -171,11 +171,11 @@
 	},
 	{
 		"name": "language-csharp",
-		"version": "0.12.0"
+		"version": "0.12.1"
 	},
 	{
 		"name": "language-css",
-		"version": "0.36.0"
+		"version": "0.36.1"
 	},
 	{
 		"name": "language-gfm",
@@ -207,15 +207,15 @@
 	},
 	{
 		"name": "language-json",
-		"version": "0.17.6"
+		"version": "0.18.0"
 	},
 	{
 		"name": "language-less",
-		"version": "0.29.0"
+		"version": "0.29.3"
 	},
 	{
 		"name": "language-make",
-		"version": "0.21.0"
+		"version": "0.21.1"
 	},
 	{
 		"name": "language-mustache",
@@ -227,7 +227,7 @@
 	},
 	{
 		"name": "language-perl",
-		"version": "0.32.0"
+		"version": "0.34.0"
 	},
 	{
 		"name": "language-php",
@@ -239,11 +239,11 @@
 	},
 	{
 		"name": "language-python",
-		"version": "0.43.0"
+		"version": "0.43.1"
 	},
 	{
 		"name": "language-ruby",
-		"version": "0.68.3"
+		"version": "0.68.5"
 	},
 	{
 		"name": "language-ruby-on-rails",
@@ -255,7 +255,7 @@
 	},
 	{
 		"name": "language-shellscript",
-		"version": "0.21.0"
+		"version": "0.21.1"
 	},
 	{
 		"name": "language-source",
@@ -283,15 +283,19 @@
 	},
 	{
 		"name": "language-yaml",
-		"version": "0.25.1"
+		"version": "0.25.2"
 	},
 	{
 		"name": "line-ending-selector",
-		"version": "0.3.1"
+		"version": "0.4.1"
 	},
 	{
 		"name": "link",
 		"version": "0.31.1"
+	},
+	{
+		"name": "linter",
+		"version": "1.11.18"
 	},
 	{
 		"name": "markdown-preview",
@@ -312,7 +316,7 @@
 	},
 	{
 		"name": "one-dark-ui",
-		"version": "1.2.0",
+		"version": "1.3.1",
 		"theme": "ui"
 	},
 	{
@@ -322,16 +326,20 @@
 	},
 	{
 		"name": "one-light-ui",
-		"version": "1.2.0",
+		"version": "1.3.1",
 		"theme": "ui"
 	},
 	{
 		"name": "open-on-github",
-		"version": "1.0.1"
+		"version": "1.2.0"
 	},
 	{
 		"name": "package-generator",
 		"version": "1.0.0"
+	},
+	{
+		"name": "react",
+		"version": "0.15.0"
 	},
 	{
 		"name": "react-es6-snippets",
@@ -343,25 +351,25 @@
 	},
 	{
 		"name": "snippets",
-		"version": "1.0.1"
+		"version": "1.0.2"
 	},
 	{
 		"name": "solarized-dark-syntax",
-		"version": "1.0.0",
+		"version": "1.0.2",
 		"theme": "syntax"
 	},
 	{
 		"name": "solarized-light-syntax",
-		"version": "1.0.0",
+		"version": "1.0.2",
 		"theme": "syntax"
 	},
 	{
 		"name": "spell-check",
-		"version": "0.67.0"
+		"version": "0.67.1"
 	},
 	{
 		"name": "status-bar",
-		"version": "1.1.2"
+		"version": "1.4.0"
 	},
 	{
 		"name": "styleguide",
@@ -385,7 +393,7 @@
 	},
 	{
 		"name": "tree-ignore",
-		"version": "0.6.1"
+		"version": "0.6.2"
 	},
 	{
 		"name": "tree-view",
