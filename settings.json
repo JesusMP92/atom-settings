@@ -18,6 +18,10 @@
 		"language_jsx_beautify_on_save": true
 	},
 	"core": {
+		"autoHideMenuBar": true,
+		"disabledPackages": [
+			"react"
+		],
 		"themes": [
 			"atom-dark-ui",
 			"one-dark-syntax"
@@ -32,6 +36,7 @@
 		"showInvisibles": true,
 		"tabLength": 3
 	},
+	"emmet": {},
 	"exception-reporting": {
 		"userId": "2f79bfbd-1e45-1466-b028-a6cca41ee6c7"
 	},
