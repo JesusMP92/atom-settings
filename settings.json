@@ -1,42 +1,76 @@
 {
 	"atom-beautify": {
-		"analytics": false,
-		"cfml_brace_style": "end-expand",
-		"cfml_preserve_newlines": false,
-		"css_newline_between_rules": true,
-		"css_no_lead_zero": true,
-		"html_indent_inner_html": true,
-		"js_brace_style": "end-expand",
-		"js_indent_size": 3,
-		"js_keep_function_indentation": true,
-		"language_css_beautify_on_save": true,
-		"language_handlebars_beautify_on_save": true,
-		"language_html_beautify_on_save": true,
-		"language_java_beautify_on_save": true,
-		"language_js_beautify_on_save": true,
-		"language_json_beautify_on_save": true,
-		"language_jsx_beautify_on_save": true
+		"cfml": {
+			"brace_style": "end-expand",
+			"preserve_newlines": false
+		},
+		"css": {
+			"beautify_on_save": true,
+			"newline_between_rules": true,
+			"no_lead_zero": true
+		},
+		"general": {
+			"_analyticsUserId": "824feeae-00ea-439d-ab89-430d6c577781",
+			"analytics": false,
+			"beautifyEntireFileOnSave": false
+		},
+		"handlebars": {
+			"beautify_on_save": true
+		},
+		"html": {
+			"beautify_on_save": true,
+			"indent_inner_html": true
+		},
+		"java": {
+			"beautify_on_save": true
+		},
+		"js": {
+			"beautify_on_save": true,
+			"brace_style": "end-expand",
+			"indent_size": 2,
+			"keep_array_indentation": true,
+			"keep_function_indentation": true,
+			"space_after_anon_function": true
+		},
+		"json": {
+			"beautify_on_save": true
+		},
+		"jsx": {
+			"beautify_on_save": true,
+			"disabled": true,
+			"end_with_comma": true,
+			"indent_size": 2,
+			"space_after_anon_function": true
+		}
 	},
 	"core": {
 		"autoHideMenuBar": true,
 		"disabledPackages": [
-			"react"
+			"linter-stylelint",
+			"linter-js-standard",
+			"linter-js-standard-jsx",
+			"esformatter",
+			"linter-jscs",
+			"react",
+			"linter-eslint"
 		],
-		"telemetryConsent": "no",
-		"themes": [
-			"atom-dark-ui",
-			"one-dark-syntax"
-		]
+		"packagesWithKeymapsDisabled": [
+			"atom-beautify"
+		],
+		"telemetryConsent": "no"
 	},
 	"editor": {
+		"fontSize": 15,
 		"invisibles": {
 			"eol": " "
 		},
 		"showIndentGuide": true,
 		"showInvisibles": true,
-		"tabLength": 3
+		"tabType": "soft"
 	},
-	"emmet": {},
+	"esformatter": {
+		"formatOnSave": true
+	},
 	"exception-reporting": {
 		"userId": "2f79bfbd-1e45-1466-b028-a6cca41ee6c7"
 	},
@@ -49,13 +83,29 @@
 			"node/*"
 		]
 	},
-	"language-babel": {
-		"allowLocalOverride": true
+	"linter": {
+		"errorPanelHeight": 50
+	},
+	"linter-eslint": {
+		"globalNodePath": "/home/manueljmorillo/.nvm/versions/node/v5.8.0",
+		"useGlobalEslint": true
+	},
+	"linter-js-standard": {
+		"showEslintRules": true
+	},
+	"linter-jscs": {
+		"fixOnSave": true
+	},
+	"react": {
+		"enabledForAllJavascriptFiles": true
+	},
+	"standard-formatter": {
+		"honorPackageConfig": false
 	},
 	"sync-settings": {
-		"analytics": false,
 		"gistDescription": "atom-settings"
 	},
+	"tree-view": {},
 	"welcome": {
 		"showOnStartup": false
 	}
