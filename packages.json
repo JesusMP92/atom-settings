@@ -1,5 +1,8 @@
 [
 	{
+		"name": ".bin"
+	},
+	{
 		"name": "Sublime-Style-Column-Selection",
 		"version": "1.7.3"
 	},
@@ -38,6 +41,10 @@
 		"name": "atom-light-ui",
 		"version": "0.45.0",
 		"theme": "ui"
+	},
+	{
+		"name": "atom-typescript",
+		"version": "10.1.13"
 	},
 	{
 		"name": "autocomplete-atom-api",
@@ -119,7 +126,7 @@
 	},
 	{
 		"name": "file-icons",
-		"version": "2.0.14"
+		"version": "2.0.15"
 	},
 	{
 		"name": "find-and-replace",
@@ -152,6 +159,10 @@
 	{
 		"name": "keybinding-resolver",
 		"version": "0.35.0"
+	},
+	{
+		"name": "language-babel",
+		"version": "2.48.5"
 	},
 	{
 		"name": "language-c",
@@ -340,6 +351,14 @@
 	{
 		"name": "php-cs-fixer",
 		"version": "4.1.0"
+	},
+	{
+		"name": "react",
+		"version": "0.16.2"
+	},
+	{
+		"name": "react-es6-snippets",
+		"version": "0.3.0"
 	},
 	{
 		"name": "seti-ui",

@@ -6,13 +6,11 @@
 		},
 		"css": {
 			"beautify_on_save": true,
-			"newline_between_rules": true,
 			"no_lead_zero": true
 		},
 		"general": {
 			"_analyticsUserId": "824feeae-00ea-439d-ab89-430d6c577781",
-			"analytics": false,
-			"beautifyEntireFileOnSave": false
+			"analytics": false
 		},
 		"handlebars": {
 			"beautify_on_save": true
@@ -36,11 +34,13 @@
 			"beautify_on_save": true
 		},
 		"jsx": {
-			"beautify_on_save": true,
 			"disabled": true,
 			"end_with_comma": true,
 			"indent_size": 2,
 			"space_after_anon_function": true
+		},
+		"scss": {
+			"beautify_on_save": true
 		}
 	},
 	"core": {
@@ -52,15 +52,21 @@
 			"esformatter",
 			"linter-jscs",
 			"react",
-			"linter-eslint"
+			"linter-eslint",
+			"language-babel",
+			"atom-typescript",
+			"react-es6-snippets"
 		],
 		"packagesWithKeymapsDisabled": [
 			"atom-beautify"
 		],
-		"telemetryConsent": "no"
+		"telemetryConsent": "no",
+		"themes": [
+			"atom-dark-ui",
+			"one-dark-syntax"
+		]
 	},
 	"editor": {
-		"fontSize": 15,
 		"invisibles": {
 			"eol": " "
 		},
@@ -68,6 +74,7 @@
 		"showInvisibles": true,
 		"tabType": "soft"
 	},
+	"emmet": {},
 	"esformatter": {
 		"formatOnSave": true
 	},
@@ -82,6 +89,9 @@
 			"node_modules/*",
 			"node/*"
 		]
+	},
+	"language-babel": {
+		"allowLocalOverride": true
 	},
 	"linter": {
 		"errorPanelHeight": 50
@@ -103,9 +113,12 @@
 		"honorPackageConfig": false
 	},
 	"sync-settings": {
+		"analytics": false,
 		"gistDescription": "atom-settings"
 	},
-	"tree-view": {},
+	"tree-view": {
+		"hideVcsIgnoredFiles": true
+	},
 	"welcome": {
 		"showOnStartup": false
 	}
